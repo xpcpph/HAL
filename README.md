@@ -2,4 +2,4 @@
 
 ##现在实现了内存管理,双向链表,设备管理器,LRU的创建,删除与查找
 
-#<red>有想法的可以与我共同开发,联系:xingpengchen@outlook.com</red>
+#<span font-color="red">有想法的可以与我共同开发,联系:xingpengchen@outlook.com</span>
